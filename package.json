@@ -1,5 +1,5 @@
 {
-  "name": "day7",
+  "name": "day9",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "mongoose": "^5.7.12",
