@@ -1,8 +1,8 @@
 {
-  "name": "day6",
+  "name": "day7",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.12"
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.12",
+    "nodemon": "^1.19.4"
   }
 }
